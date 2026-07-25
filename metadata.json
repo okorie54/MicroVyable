@@ -1,0 +1,6 @@
+{
+  "name": "MicroVyable - Commercial Viability & Growth Systems",
+  "description": "Premium, modern, minimalist growth, sales, and strategic partnerships consulting platform for startups and early-stage companies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
