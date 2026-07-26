@@ -1,4 +1,4 @@
-export const EMAIL_ADDRESS = 'hello@microvyable.com';
+export const EMAIL_ADDRESS = 'microVyable@gmail.com';
 
 export function getGmailComposeUrl(subject = 'Discovery Call Request'): string {
   return `https://mail.google.com/mail/?view=cm&fs=1&to=${EMAIL_ADDRESS}&su=${encodeURIComponent(subject)}`;

@@ -40,7 +40,7 @@ export const CTASection: React.FC<CTASectionProps> = ({ onOpenBooking }) => {
               onClick={onOpenBooking}
               className="inline-block text-2xl sm:text-4xl font-mono font-bold text-white hover:text-emerald-400 transition-colors underline decoration-white/30 underline-offset-8 tracking-wider cursor-pointer"
             >
-              HELLO@MICROVYABLE.COM
+              MICROVYABLE@GMAIL.COM
             </button>
           </div>
 
@@ -59,7 +59,7 @@ export const CTASection: React.FC<CTASectionProps> = ({ onOpenBooking }) => {
               className="w-full sm:w-auto px-8 py-4 border border-white/20 rounded-full font-semibold text-white hover:bg-white/10 transition-colors text-xs uppercase tracking-wider flex items-center justify-center gap-2 cursor-pointer"
             >
               <Mail className="w-4 h-4 text-emerald-400" />
-              <span>HELLO@MICROVYABLE.COM</span>
+              <span>MICROVYABLE@GMAIL.COM</span>
             </button>
           </div>
         </motion.div>

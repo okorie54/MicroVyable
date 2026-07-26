@@ -49,7 +49,7 @@ export const Footer: React.FC<FooterProps> = ({ onNavigateSection, onOpenBooking
                 onClick={onOpenBooking}
                 className="hover:text-emerald-400 transition-colors cursor-pointer text-emerald-400 font-semibold font-mono"
               >
-                HELLO@MICROVYABLE.COM
+                MICROVYABLE@GMAIL.COM
               </button>
             </div>
 
